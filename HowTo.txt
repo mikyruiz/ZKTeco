@@ -1,0 +1,3 @@
+//Arrancar el proyecto en Visual Studio y poner el proyecto de Console como proyecto de inicio.
+//Al ejecutar genera automáticamete 10000 SEts de enteros para probar.
+//La salida de datos se ve por consola y puede leerse mientras se genera o al finalizar el programa.
